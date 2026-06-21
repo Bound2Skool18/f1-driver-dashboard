@@ -58,9 +58,3 @@ createdb f1_dashboard
 ```
 
 Then open `http://localhost:5173`, enter two driver codes (e.g. `VER`, `LEC`), and click Compare.
-
-## What's next
-
-- Race/year selection (currently hardcoded to the 2024 Italian Grand Prix)
-- Throttle and brake trace comparisons alongside speed
-- Docker Compose to run the full stack with one command
